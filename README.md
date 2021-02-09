@@ -56,4 +56,5 @@ void loop() {
    if (p != FINGERPRINT_OK)  return -1;
 }
 ```
-<img src="Images/SuperCoolAwesomeMegaSketch.jpg" alt="I am in pain" width="200" height="400">
+## Nice old paint diagram
+<img src="Images/SuperCoolAwesomeMegaSketch.png" alt="I am in pain" width="200" height="400">
