@@ -57,4 +57,5 @@ void loop() {
 }
 ```
 ## Nice old paint diagram
-<img src="Images/SuperCoolAwesomeMegaSketch.png" alt="I am in pain" width="200" height="400">
+
+<img src="Images/SuperCoolMegaAwesomeSketch.png" alt="I am in pain" width="200" height="400">
