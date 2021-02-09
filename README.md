@@ -58,4 +58,4 @@ void loop() {
 ```
 ## Nice old paint diagram
 
-<img src="Images/SuperCoolMegaAwesomeSketch.png" alt="I am in pain" width="400" height="200">
+<img src="Images/SuperCoolMegaAwesomeSketch.png" alt="I am in pain" width="1000" height="500">
