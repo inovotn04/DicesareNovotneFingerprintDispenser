@@ -56,4 +56,4 @@ void loop() {
    if (p != FINGERPRINT_OK)  return -1;
 }
 ```
-<img src="images/SuperCoolAwesomeMegaSketch.jpg" alt="I am in pain" width="200" height="400">
+<img src="Images/SuperCoolAwesomeMegaSketch.jpg" alt="I am in pain" width="200" height="400">
