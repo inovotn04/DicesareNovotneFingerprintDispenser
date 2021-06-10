@@ -57,8 +57,8 @@ void loop() {
 }
 ```
 # !!!!!! IMPORTANT !!!!!! MUST INITALIZE FINGERPRINT SEPARATELY!!!!! 
-### When using the fingerprint sensor you have to use software from it's library to add your fingerprint to it's database or whatever which is a Pain honestly but there's a good little guide on it here: 
-
+When using the fingerprint sensor you have to use software from it's library to add your fingerprint to it's database or whatever which is a Pain honestly but there's a good little guide on it here: 
+[Enrolling Fingerprints on the Sensor](https://learn.adafruit.com/adafruit-optical-fingerprint-sensor/enrolling-new-users-with-windows)
 
 ## Nice old paint diagram
 
