@@ -78,9 +78,10 @@ When using the fingerprint sensor you have to use software from it's library to 
 
 <img src="Images/FingerprintHold.png" alt="death" width="700" height="500">
 
-## Onshape Link
+## CAD Link
 
 [Nice Onshape](https://cvilleschools.onshape.com/documents/a99d3cc9e3b8e59fb0deaeb2/w/b9ca19930aa60ddfe4d9a6b0/e/ae96e00ba1973fc1351a33bd)
+[Nice Document With Steps](https://docs.google.com/document/d/1k_1dz4qbWdyGnDvu0hIfKTn9R8OrIaWSMgfRcjM__go/edit?usp=sharing)
 
 ## Wiring
 
