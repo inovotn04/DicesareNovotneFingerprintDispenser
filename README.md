@@ -84,7 +84,7 @@ When using the fingerprint sensor you have to use software from it's library to 
 
 ## Wiring
 
-<img src="Images/wiring.png" alt="death" width="800" height="500">
+<img src="Images/wiring.png" alt="death" width="800" height="450">
 
 ## As of the last day of school we have not completed the project
 # Here is the rundown:
