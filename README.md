@@ -66,6 +66,7 @@ When using the fingerprint sensor you have to use software from it's library to 
 
 
 ## Onshape Images
+# Candy Pusher Part
 
 <img src="Images/Flapper.png" alt="WQowww" width="600" height="500">
 
