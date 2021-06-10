@@ -96,6 +96,8 @@ When using the fingerprint sensor you have to use software from it's library to 
 * Continuous Micro Servo
 * Arduino mounted switch
 * Arduino LED light
+* 9V Battery
+* Battery holder
 * Candy
 * A hand
 * Your soul
