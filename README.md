@@ -56,8 +56,8 @@ void loop() {
    if (p != FINGERPRINT_OK)  return -1;
 }
 ```
-### !!!!!! IMPORTANT !!!!!! MUST INITALIZE FINGERPRINT SEPARATELY!!!!! 
-# When using the fingerprint sensor you have to use software from it's library to add your fingerprint to it's database or whatever which is a Pain honestly but there's a good little guide on it here: 
+# !!!!!! IMPORTANT !!!!!! MUST INITALIZE FINGERPRINT SEPARATELY!!!!! 
+### When using the fingerprint sensor you have to use software from it's library to add your fingerprint to it's database or whatever which is a Pain honestly but there's a good little guide on it here: 
 
 
 ## Nice old paint diagram
@@ -66,7 +66,3 @@ void loop() {
 
 ## Onshape Link
 [Nice Onshape](https://cvilleschools.onshape.com/documents/4958dbca03658389d26d8213/w/0d9c3c333cb7cc77040718b1/e/3782be513dc604e1ee0be830)
-
-
-### !!!!!! IMPORTANT !!!!!! MUST INITALIZE FINGERPRINT SEPARATELY!!!!! 
-# When using the fingerprint sensor you have to use software from it's library to add your fingerprint to it's database or whatever which is a Pain honestly but there's a good little guide on it here: 
