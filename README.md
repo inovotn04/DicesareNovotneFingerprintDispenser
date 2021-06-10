@@ -67,7 +67,7 @@ When using the fingerprint sensor you have to use software from it's library to 
 
 ## Onshape Images
 
-<img src="Flapper.png" alt="WQowww" width="500" height="500">
+<img src="Images/Flapper.png" alt="WQowww" width="500" height="500">
 
 
 ## Onshape Link
