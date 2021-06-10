@@ -56,7 +56,7 @@ void loop() {
    if (p != FINGERPRINT_OK)  return -1;
 }
 ```
-# !!!!!! IMPORTANT !!!!!! MUST INITALIZE FINGERPRINT SEPARATELY!!!!! 
+## !!!!!! IMPORTANT !!!!!! MUST INITALIZE FINGERPRINT SEPARATELY!!!!! 
 When using the fingerprint sensor you have to use software from it's library to add your fingerprint to it's database or whatever which is a Pain honestly but there's a good little guide on it here: 
 [Enrolling Fingerprints on the Sensor](https://learn.adafruit.com/adafruit-optical-fingerprint-sensor/enrolling-new-users-with-windows)
 
@@ -66,3 +66,13 @@ When using the fingerprint sensor you have to use software from it's library to 
 
 ## Onshape Link
 [Nice Onshape](https://cvilleschools.onshape.com/documents/4958dbca03658389d26d8213/w/0d9c3c333cb7cc77040718b1/e/3782be513dc604e1ee0be830)
+
+## As of the last day of school we have not completed the project
+# Here is the rundown:
+* We got to printing and cutting the parts of the project but were not able to assemble it in time
+* We can account for lack of time somewhat with this year being virtual which certainly hindered things
+* Regardleess, there is still steps we could've taken to be more timely
+* Even with delegated jobs it is important both members of a group work on whatever task requires the most attention (especially if one member is already done with their part)
+* Making sure one has a good grasp of Onshape is important if you're using that because we both were rather bad at it and that slowed us down
+* Also making sure your plan is very clear and concise so once you get to modeling it you can put it together quickly
+* However the biggest thing which stopped the project was mostly the inability, particularly from me (Ian Novotne) to get into the lab to synthesize the project, due to lack of time
