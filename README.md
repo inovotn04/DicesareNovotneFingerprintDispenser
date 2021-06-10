@@ -86,8 +86,22 @@ When using the fingerprint sensor you have to use software from it's library to 
 
 <img src="Images/wiring.png" alt="death" width="800" height="450">
 
-## As of the last day of school we have not completed the project
-# Here is the rundown:
+## Materials
+* Many wires compatible with an arduino
+* Arduino Uno
+* Adafruit Arduino Fingerprint Sensor
+* Acrylic Sheets for laser cutting
+* 3D printing stuff (ink? ammo? goo?)
+* Many hex screws and caps
+* Continuous Micro Servo
+* Arduino mounted switch
+* Arduino LED light
+* Candy
+* A hand
+* Your soul
+
+# As of the last day of school we have not completed the project
+### Here is the rundown:
 * We got to printing and cutting the parts of the project but were not able to assemble it in time
 * We can account for lack of time somewhat with this year being virtual which certainly hindered things
 * Regardleess, there is still steps we could've taken to be more timely
