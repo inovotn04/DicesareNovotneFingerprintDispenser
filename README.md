@@ -70,6 +70,9 @@ When using the fingerprint sensor you have to use software from it's library to 
 
 <img src="Images/Flapper.png" alt="WQowww" width="600" height="500">
 
+### Final Assembly
+
+<img src="Images/FinalAssembly.png" alt="GOGGLE DOT COM" width="500" height="1500">
 
 ## Onshape Link
 [Nice Onshape](https://cvilleschools.onshape.com/documents/a99d3cc9e3b8e59fb0deaeb2/w/b9ca19930aa60ddfe4d9a6b0/e/ae96e00ba1973fc1351a33bd)
